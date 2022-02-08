@@ -19,6 +19,7 @@ _New commands_ since there's a lot, they will have their own category)
 - **Purge (or clear)**, delete a certain amount of messages.
 
 > Now we are onto the currency commands! This is to help with users in other servers not being able to earn cash
+
 - **Give**, give someone coins. Yeah don't be selfish and share your coins to poor ones.
 - **Flipcoin**, a way to earn cash, also our very first gambling command.
 - **Richlist**, find out who is the richest in your server!
