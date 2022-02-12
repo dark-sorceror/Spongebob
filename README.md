@@ -4,6 +4,14 @@ Discord.py: **1.7.3**
 
 # Update Log
 
+#### Update Patch **(v1.7.2)**
+- Removed the END button after the giveaway ends
+- Changed some mistakes in messages
+- Changed the format of the cooldown errors (looks nice now)
+- You can now **Fight** someone in the bot! We have many plans to add for this, but for now the fundamentals are there and you can do this by doing the command and mentioning the user you want to fight.
+- A __well awaited__ command, **Catchjellyfish (or `catch` for short)**. Finally came out, a breathe a fresh air. This will tie into your inventory and the database in the future.
+- A command we should've added in the start, **Help (yeah literally)**. You can now see __all__ the commands available to you in the bot. This will clear up confusion with new servers using this bot.
+
 #### Small Update Patch **(v1.7.2)**
 - Fixed anyone being able to end the giveaway by pressing the button.
 - The bot now dms the giveaway host when the giveaway ends.
