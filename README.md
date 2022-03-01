@@ -4,6 +4,12 @@ Discord.py: **1.7.3**
 
 # Update Log
 
+#### Update Patch **(v1.7.3)**
+- Removed important crash-possible bugs
+- Jump to Giveaway button when giveaway ends instead of link
+- DMs winner(s) and host when giveaway ends (Jump to Giveaway included)
+- Made our Database more efficient.
+
 #### Update Patch **(v1.7.2)**
 - Removed the END button after the giveaway ends
 - Changed some mistakes in messages
