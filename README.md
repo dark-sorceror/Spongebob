@@ -12,7 +12,7 @@ Discord.py: **1.7.3**
 - A __well awaited__ command, **Catchjellyfish (or `catch` for short)**. Finally came out, a breathe a fresh air. This will tie into your inventory and the database in the future.
 - A command we should've added in the start, **Help (yeah literally)**. You can now see __all__ the commands available to you in the bot. This will clear up confusion with new servers using this bot.
 
-#### Small Update Patch **(v1.7.2)**
+#### Small Update Patch **(v1.7.1)**
 - Fixed anyone being able to end the giveaway by pressing the button.
 - The bot now dms the giveaway host when the giveaway ends.
 - Replies when you don't have the required role when you create a giveaway.
